@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FieldShifter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e3c9732d00bd069d3d5cd9dac07cc137679cb9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("FieldShifter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FieldShifter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
