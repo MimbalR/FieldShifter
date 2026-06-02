@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FPuxG+iloFM=",
+  "success": true,
+  "projectFilePath": "/home/immerregen/GitProj/FieldShifterProject/FieldShifter/FieldShifter.csproj",
+  "expectedPackageFiles": [
+    "/home/immerregen/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

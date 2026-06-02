@@ -1,0 +1,14 @@
+/home/immerregen/GitProj/FieldShifter/bin/Debug/net10.0/FieldShifter
+/home/immerregen/GitProj/FieldShifter/bin/Debug/net10.0/FieldShifter.deps.json
+/home/immerregen/GitProj/FieldShifter/bin/Debug/net10.0/FieldShifter.runtimeconfig.json
+/home/immerregen/GitProj/FieldShifter/bin/Debug/net10.0/FieldShifter.dll
+/home/immerregen/GitProj/FieldShifter/bin/Debug/net10.0/FieldShifter.pdb
+/home/immerregen/GitProj/FieldShifter/obj/Debug/net10.0/FieldShifter.GeneratedMSBuildEditorConfig.editorconfig
+/home/immerregen/GitProj/FieldShifter/obj/Debug/net10.0/FieldShifter.AssemblyInfoInputs.cache
+/home/immerregen/GitProj/FieldShifter/obj/Debug/net10.0/FieldShifter.AssemblyInfo.cs
+/home/immerregen/GitProj/FieldShifter/obj/Debug/net10.0/FieldShifter.csproj.CoreCompileInputs.cache
+/home/immerregen/GitProj/FieldShifter/obj/Debug/net10.0/FieldShifter.dll
+/home/immerregen/GitProj/FieldShifter/obj/Debug/net10.0/refint/FieldShifter.dll
+/home/immerregen/GitProj/FieldShifter/obj/Debug/net10.0/FieldShifter.pdb
+/home/immerregen/GitProj/FieldShifter/obj/Debug/net10.0/FieldShifter.genruntimeconfig.cache
+/home/immerregen/GitProj/FieldShifter/obj/Debug/net10.0/ref/FieldShifter.dll
